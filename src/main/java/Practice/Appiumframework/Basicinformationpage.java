@@ -15,6 +15,7 @@ public class Basicinformationpage {
 	
 	public Basicinformationpage(){}
 	//local
+	//local2
     private AppiumDriver<WebElement> driver;
 	
 	public Basicinformationpage(AppiumDriver<WebElement> driver)
