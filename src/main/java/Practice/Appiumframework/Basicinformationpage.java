@@ -14,7 +14,7 @@ import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 public class Basicinformationpage {
 	
 	public Basicinformationpage(){}
-	
+	//local
     private AppiumDriver<WebElement> driver;
 	
 	public Basicinformationpage(AppiumDriver<WebElement> driver)
